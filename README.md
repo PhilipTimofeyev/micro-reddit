@@ -1,24 +1,10 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a Ruby on Rails project for The Odin Projects curriculum. It is a Rails app designed to explore the core back-end concepts of a site like Reddit, where there are users who can post content and comment on each other's content. 
 
-Things you may want to cover:
+This project practices:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Setting up multiple models in Rails.
+- Creating validations for the models.
+- Creating associations between the models.
+- Testing the models, validations, and associations using the Rails console.
